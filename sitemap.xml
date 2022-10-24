@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zihengzhang.top/b236830e1523.html</loc>
+    <loc>https://www.zihengzhang.top/a0ec3570bd5f.html</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -38,7 +38,14 @@
 
   
   <url>
-    <loc>https://www.zihengzhang.top/tags/Ziheng-Zhnag/</loc>
+    <loc>https://www.zihengzhang.top/tags/Ziheng-Zhang/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zihengzhang.top/tags/Personal-information/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
