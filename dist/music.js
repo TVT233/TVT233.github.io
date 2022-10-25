@@ -7,12 +7,12 @@ const ap = new APlayer({
   lrcType: 1,
   audio: [
     {
-      name: "哪里都是你",
-      artist: "队长",
-      url: "http://music.163.com/song/media/outer/url?id=488249475.mp3",
+      name: "空と海と詩",
+      artist: "天門",
+      url: "http://music.163.com/song/media/outer/url?id=528300.mp3",
       cover:
-        "http://p1.music.126.net/Ieq9StJjPVyRPlmeOanldQ==/109951166470091750.jpg?param=180y180",
-      lrc: "[00:00.000] 作词 : 队长\n[00:01.000] 作曲 : 队长/박수석/김문철",
+        "http://p1.music.126.net/aoQ2MZLG0Np34Mgjt7l60Q==/109951166556965359.jpg?param=130y130",
+      lrc: "",
     },
   ],
 });
