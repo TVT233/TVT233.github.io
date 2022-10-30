@@ -10,7 +10,7 @@
 ]]></content>
   </entry>
   <entry>
-    <title>scratch</title>
+    <title>How to build a MC server from scratch</title>
     <url>/29e7df20a84e.html</url>
     <content><![CDATA[<p>Recently a friend was going to set up an MC server for a few friends to play at any time. NetEase’s online always requires the host to be online, which is not very convenient. But after waiting for a few days, it didn’t get set up, so I tried it out when I was free. Writing this blog to record it.</p>
 <h3 id="Preparations"><a href="#Preparations" class="headerlink" title="Preparations"></a>Preparations</h3><p>Firstly, we need to have an Elastic Compute Service. Many major cloud platforms are good, for example, Alibaba, Tencent, Huawei and Ucloud.</p>
