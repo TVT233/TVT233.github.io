@@ -7,12 +7,12 @@ const ap = new APlayer({
   lrcType: 1,
   audio: [
     {
-      name: "空と海と詩",
-      artist: "天門",
-      url: "http://music.163.com/song/media/outer/url?id=528300.mp3",
+      name: "奥寺先輩のテーマ",
+      artist: "RADWIMPS",
+      url: "http://music.163.com/song/media/outer/url?id=1480755230.mp3",
       cover:
-        "http://p1.music.126.net/aoQ2MZLG0Np34Mgjt7l60Q==/109951166556965359.jpg?param=130y130",
-      lrc: "",
+        "http://p1.music.126.net/sSxbRt9RpC6s_MaewyDJfA==/18597139672292692.jpg?param=130y130",
+      lrc: ""
     },
   ],
 });
