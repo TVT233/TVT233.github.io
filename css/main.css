@@ -1213,7 +1213,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #04ff81;
+  background: #ff30eb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2725,13 +2725,18 @@ pre {
 }
 /*添加背景图*/
 body {
-  background: url("images/background.jpg"); /*自定义的图片*/
-  background-size: 100% 100%; /*拉伸到全屏显示*/
+  background: url("/images/background.jpg"); /*自定义的图片*/
+  background-size: 1920px 1080px;
+/*像素值为1920*1080，根据你自己的图片选择，你也可以用cover来覆盖*/
   background-repeat: no-repeat; /*拒绝重复填充*/
   background-attachment: fixed; /*固定图层，不随鼠标滚动而滚动*/
+  background-position: center;
+/*图片显示起始位置*/
 }
 /*文章透明度*/
 .post-block {
+  background: rgba(255,255,255,0.9);
+background-color
   opacity: 0.9;
 }
 /*侧边框的透明度设置*/
